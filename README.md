@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @bahramzahir
+- 👀 I’m interested in data science, signal processing and healthcare.
+- 🌱 I’m currently learning about supply chain.
